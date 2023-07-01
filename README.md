@@ -23,3 +23,20 @@ the stock data.</p>
 The Stock Calculator Service is a  Eureka Client register itself with the Eureka Server.<br>Stock Calculator Service, utilizing a Feign client, that interacts with 
 Stock Service API to access stock-related data and perform calculations and computations on that data.
 </p>
+
+# Home Page
+
+# Eureka Server Page
+
+# Admin Login Page
+
+# Admin Registration Page
+
+# Admin Home Page
+
+# Customer Login Page
+
+# Customer Registration Page
+
+# Customer Home Page
+
