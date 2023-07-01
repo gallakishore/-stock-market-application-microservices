@@ -1,4 +1,4 @@
-# Stock Market Application (microservices)
+# Stock Market Application based on microservices architecture
 <h2>Demo Video</h2>
 <a href="https://drive.google.com/file/d/16wMSwPleffvZLfyTF3fL-Anvbw8-BMb0/view?usp=sharing">|Click To Open Video|</a>
 <h2>Stock Customer Admin Service</h2>
