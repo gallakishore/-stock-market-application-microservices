@@ -29,6 +29,8 @@ Stock Service API to access stock-related data and perform calculations and comp
 
 # Eureka Server Page
 
+![Screenshot 2023-06-23 130308](https://github.com/gallakishore/stock-market-application-microservices/assets/137784768/73a9f38e-0d1c-44f0-b990-add7ab4b910d)
+
 # Admin Login Page
 
 ![Admin Login](https://github.com/gallakishore/stock-market-application-microservices/assets/137784768/80a57d54-e950-4a9d-a65f-675fe7573355)
