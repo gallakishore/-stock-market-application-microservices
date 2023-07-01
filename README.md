@@ -6,8 +6,7 @@
 Client register itself with the Eureka Server.It offers a range of functionalities and data access points to facilitate customer administration tasks.</p>
 
 <h2>Stock Service</h2>
-<p>The Stock Service is an API that provides a efficient way to manage information of various company stocks.The Stock Service is a  Eureka Client register itself with 
-the Eureka Server.It offers a range of functionalities and data access points to facilitate efficient stock management. Stock service is </p>
+<p>The Stock Service is an API that provides a efficient way to manage information of various company stocks.The Stock Service is a Eureka Client register itself with the Eureka Server.It offers a range of functionalities and data access points to facilitate efficient stock management. </p>
 
 <h2>Stock Eureka Server</h2>
 <p>Stock Eureka Server is a component of the Eureka service discovery system that specifically focuses on managing and facilitating stock-related services in a 
