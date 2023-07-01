@@ -46,7 +46,7 @@ Stock Service API to access stock-related data and perform calculations and comp
 # Customer Registration Page
 ![Customer Register](https://github.com/gallakishore/stock-market-application-microservices/assets/137784768/b3c1cacf-356a-4b03-a566-a157e2945732)
 
-
-
 # Customer Home Page
+![Customer Home](https://github.com/gallakishore/stock-market-application-microservices/assets/137784768/e7e87015-bfed-4472-af4a-665af95af961)
+
 
