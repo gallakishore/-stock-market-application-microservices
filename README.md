@@ -2,11 +2,10 @@
 <h2>Demo Video</h2>
 <a href="https://drive.google.com/file/d/16wMSwPleffvZLfyTF3fL-Anvbw8-BMb0/view?usp=sharing">|Click To Open Video|</a>
 <h2>Stock Customer Admin Service</h2>
-<p>Stock Customer Admin Service is an API that provides a efficient way to manage customer and admin related operations.The Stock Customer Admin Service is a  Eureka 
-Client register itself with the Eureka Server.It offers a range of functionalities and data access points to facilitate customer administration tasks.</p>
+<p>Stock Customer Admin Service is an API that provides a efficient way to manage customer and admin related operations.The Stock Customer Admin Service is a  Eureka Client register itself with the Eureka Server.It offers a range of functionalities and data access points to facilitate customer administration tasks.</p>
 
 <h2>Stock Service</h2>
-<p>The Stock Service is an API that provides a efficient way to manage information of various company stocks.The Stock Service is a Eureka Client register itself with the Eureka Server.It offers a range of functionalities and data access points to facilitate efficient stock management. </p>
+<p>The Stock Service is an API that provides a efficient way to manage information of various company stocks.The Stock Service is a Eureka Client register itself with the Eureka Server. It offers a range of functionalities and data access points to facilitate efficient stock management. </p>
 
 <h2>Stock Eureka Server</h2>
 <p>Stock Eureka Server is a component of the Eureka service discovery system that specifically focuses on managing and facilitating stock-related services in a 
